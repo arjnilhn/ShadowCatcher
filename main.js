@@ -9,7 +9,7 @@
  * - Color Theory: Level 4 Magenta Filter (Subtractive Color Filtering).
  * - Safe Start: Invulnerability shield at level start.
  */
-window.setup = setup;
+
 window.draw = draw;
 
 let gameState = "START_SCREEN"; 
