@@ -10,7 +10,7 @@
  * - Safe Start: Invulnerability shield at level start.
  */
 
-window.draw = draw;
+
 
 let gameState = "START_SCREEN"; 
 let currentLevel = 1;
